@@ -1,0 +1,139 @@
+After eating the apple, the snake should grow by one cell. This means that the tail should not be shortened when the food is eaten, and a new apple should be placed immediately.
+Width 5 Height 4
+apple_spot 5
+---
+XX...
+..A..
+.....
+.....
+
+
+alarm : refresh
+---
+.XX..
+..A..
+.....
+.....
+
+
+apple_spot 7
+arrow : d
+alarm : refresh
+---
+.XX..
+..X..
+A....
+.....
+
+
+alarm : refresh
+---
+..X..
+..X..
+A.X..
+.....
+
+
+arrow : l
+alarm : refresh
+---
+.....
+..X..
+AXX..
+.....
+
+
+apple_spot 0
+alarm : refresh
+---
+A....
+..X..
+XXX..
+.....
+
+
+arrow : u
+alarm : refresh
+---
+A....
+X....
+XXX..
+.....
+
+
+apple_spot 3
+alarm : refresh
+---
+X...A
+X....
+XXX..
+.....
+
+
+arrow : r
+alarm : refresh
+---
+XX..A
+X....
+XX...
+.....
+
+
+alarm : refresh
+---
+XXX.A
+X....
+X....
+.....
+
+
+alarm : refresh
+---
+XXXXA
+X....
+.....
+.....
+
+
+apple_spot 0
+alarm : refresh
+---
+XXXXX
+XA...
+.....
+.....
+
+
+arrow : d
+alarm : refresh
+---
+XXXXX
+.A..X
+.....
+.....
+
+
+arrow : l
+alarm : refresh
+---
+.XXXX
+.A.XX
+.....
+.....
+
+
+alarm : refresh
+---
+..XXX
+.AXXX
+.....
+.....
+
+
+apple_spot 0
+alarm : refresh
+---
+A.XXX
+.XXXX
+.....
+.....

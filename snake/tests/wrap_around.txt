@@ -1,0 +1,116 @@
+If the snake leaves the screen, it should re-emerge at the other end.
+Width 4 Height 4
+apple_spot 3
+---
+XX..
+.A..
+....
+....
+
+
+alarm : refresh
+---
+.XX.
+.A..
+....
+....
+
+
+alarm : refresh
+---
+..XX
+.A..
+....
+....
+
+
+alarm : refresh
+---
+X..X
+.A..
+....
+....
+
+
+arrow : d
+alarm : refresh
+---
+X...
+XA..
+....
+....
+
+
+alarm : refresh
+---
+....
+XA..
+X...
+....
+
+
+alarm : refresh
+---
+....
+.A..
+X...
+X...
+
+
+alarm : refresh
+---
+X...
+.A..
+....
+X...
+
+
+arrow : l
+alarm : refresh
+---
+X..X
+.A..
+....
+....
+
+
+alarm : refresh
+---
+..XX
+.A..
+....
+....
+
+
+alarm : refresh
+---
+.XX.
+.A..
+....
+....
+
+
+arrow : u
+alarm : refresh
+---
+.X..
+.A..
+....
+.X..
+
+
+alarm : refresh
+---
+....
+.A..
+.X..
+.X..
+
+
+arrow : r
+alarm : refresh
+---
+....
+.A..
+.XX.
+....

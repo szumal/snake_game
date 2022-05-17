@@ -1,0 +1,3317 @@
+The whole game should work as described.
+Width 8 Height 8
+apple_spot 44
+---
+XX......
+........
+........
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+.XX.....
+........
+........
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+..XX....
+........
+........
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+...XX...
+........
+........
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+....XX..
+........
+........
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+.....XX.
+........
+........
+........
+........
+......A.
+........
+........
+
+
+arrow : d
+alarm : refresh
+---
+......X.
+......X.
+........
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+......X.
+......X.
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+........
+......X.
+......X.
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+........
+........
+......X.
+......X.
+......A.
+........
+........
+
+
+apple_spot 39
+alarm : refresh
+---
+........
+........
+........
+......X.
+......X.
+.A....X.
+........
+........
+
+
+arrow : l
+alarm : refresh
+---
+........
+........
+........
+........
+......X.
+.A...XX.
+........
+........
+
+
+alarm : refresh
+---
+........
+........
+........
+........
+........
+.A..XXX.
+........
+........
+
+
+alarm : refresh
+---
+........
+........
+........
+........
+........
+.A.XXX..
+........
+........
+
+
+alarm : refresh
+---
+........
+........
+........
+........
+........
+.AXXX...
+........
+........
+
+
+apple_spot 8
+alarm : refresh
+---
+........
+A.......
+........
+........
+........
+.XXXX...
+........
+........
+
+
+alarm : refresh
+---
+........
+A.......
+........
+........
+........
+XXXX....
+........
+........
+
+
+arrow : u
+alarm : refresh
+---
+........
+A.......
+........
+........
+X.......
+XXX.....
+........
+........
+
+
+alarm : refresh
+---
+........
+A.......
+........
+X.......
+X.......
+XX......
+........
+........
+
+
+alarm : refresh
+---
+........
+A.......
+X.......
+X.......
+X.......
+X.......
+........
+........
+
+
+apple_spot 41
+alarm : refresh
+---
+........
+X.......
+X.......
+X.......
+X.......
+X.....A.
+........
+........
+
+
+arrow : r
+alarm : refresh
+---
+........
+XX......
+X.......
+X.......
+X.......
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+XXX.....
+X.......
+X.......
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+XXXX....
+X.......
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+XXXXX...
+........
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+.XXXXX..
+........
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+..XXXXX.
+........
+........
+........
+......A.
+........
+........
+
+
+arrow : d
+alarm : refresh
+---
+........
+...XXXX.
+......X.
+........
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+....XXX.
+......X.
+......X.
+........
+......A.
+........
+........
+
+
+alarm : refresh
+---
+........
+.....XX.
+......X.
+......X.
+......X.
+......A.
+........
+........
+
+
+apple_spot 16
+alarm : refresh
+---
+........
+.....XX.
+..A...X.
+......X.
+......X.
+......X.
+........
+........
+
+
+arrow : l
+alarm : refresh
+---
+........
+......X.
+..A...X.
+......X.
+......X.
+.....XX.
+........
+........
+
+
+alarm : refresh
+---
+........
+........
+..A...X.
+......X.
+......X.
+....XXX.
+........
+........
+
+
+alarm : refresh
+---
+........
+........
+..A.....
+......X.
+......X.
+...XXXX.
+........
+........
+
+
+alarm : refresh
+---
+........
+........
+..A.....
+........
+......X.
+..XXXXX.
+........
+........
+
+
+arrow : d
+alarm : refresh
+---
+........
+........
+..A.....
+........
+........
+..XXXXX.
+..X.....
+........
+
+
+alarm : refresh
+---
+........
+........
+..A.....
+........
+........
+..XXXX..
+..X.....
+..X.....
+
+
+alarm : refresh
+---
+..X.....
+........
+..A.....
+........
+........
+..XXX...
+..X.....
+..X.....
+
+
+alarm : refresh
+---
+..X.....
+..X.....
+..A.....
+........
+........
+..XX....
+..X.....
+..X.....
+
+
+apple_spot 49
+alarm : refresh
+---
+..X.....
+..X.....
+..X.....
+........
+........
+..XX....
+..X....A
+..X.....
+
+
+arrow : l
+alarm : refresh
+---
+..X.....
+..X.....
+.XX.....
+........
+........
+..X.....
+..X....A
+..X.....
+
+
+alarm : refresh
+---
+..X.....
+..X.....
+XXX.....
+........
+........
+........
+..X....A
+..X.....
+
+
+alarm : refresh
+---
+..X.....
+..X.....
+XXX....X
+........
+........
+........
+.......A
+..X.....
+
+
+arrow : d
+alarm : refresh
+---
+..X.....
+..X.....
+XXX....X
+.......X
+........
+........
+.......A
+........
+
+
+alarm : refresh
+---
+........
+..X.....
+XXX....X
+.......X
+.......X
+........
+.......A
+........
+
+
+alarm : refresh
+---
+........
+........
+XXX....X
+.......X
+.......X
+.......X
+.......A
+........
+
+
+apple_spot 24
+alarm : refresh
+---
+........
+........
+XXX....X
+....A..X
+.......X
+.......X
+.......X
+........
+
+
+arrow : l
+alarm : refresh
+---
+........
+........
+XX.....X
+....A..X
+.......X
+.......X
+......XX
+........
+
+
+alarm : refresh
+---
+........
+........
+X......X
+....A..X
+.......X
+.......X
+.....XXX
+........
+
+
+alarm : refresh
+---
+........
+........
+.......X
+....A..X
+.......X
+.......X
+....XXXX
+........
+
+
+arrow : u
+alarm : refresh
+---
+........
+........
+........
+....A..X
+.......X
+....X..X
+....XXXX
+........
+
+
+alarm : refresh
+---
+........
+........
+........
+....A...
+....X..X
+....X..X
+....XXXX
+........
+
+
+apple_spot 37
+alarm : refresh
+---
+........
+........
+........
+....X...
+....X..X
+A...X..X
+....XXXX
+........
+
+
+alarm : refresh
+---
+........
+........
+....X...
+....X...
+....X...
+A...X..X
+....XXXX
+........
+
+
+arrow : l
+alarm : refresh
+---
+........
+........
+...XX...
+....X...
+....X...
+A...X...
+....XXXX
+........
+
+
+alarm : refresh
+---
+........
+........
+..XXX...
+....X...
+....X...
+A...X...
+....XXX.
+........
+
+
+alarm : refresh
+---
+........
+........
+.XXXX...
+....X...
+....X...
+A...X...
+....XX..
+........
+
+
+alarm : refresh
+---
+........
+........
+XXXXX...
+....X...
+....X...
+A...X...
+....X...
+........
+
+
+arrow : d
+alarm : refresh
+---
+........
+........
+XXXXX...
+X...X...
+....X...
+A...X...
+........
+........
+
+
+alarm : refresh
+---
+........
+........
+XXXXX...
+X...X...
+X...X...
+A.......
+........
+........
+
+
+apple_spot 43
+alarm : refresh
+---
+........
+........
+XXXXX...
+X...X...
+X...X...
+X.......
+.....A..
+........
+
+
+alarm : refresh
+---
+........
+........
+XXXXX...
+X...X...
+X.......
+X.......
+X....A..
+........
+
+
+arrow : l
+alarm : refresh
+---
+........
+........
+XXXXX...
+X.......
+X.......
+X.......
+X....A.X
+........
+
+
+alarm : refresh
+---
+........
+........
+XXXX....
+X.......
+X.......
+X.......
+X....AXX
+........
+
+
+apple_spot 48
+alarm : refresh
+---
+........
+........
+XXXX....
+X.......
+X.......
+X.......
+X....XXX
+...A....
+
+
+alarm : refresh
+---
+........
+........
+XXX.....
+X.......
+X.......
+X.......
+X...XXXX
+...A....
+
+
+alarm : refresh
+---
+........
+........
+XX......
+X.......
+X.......
+X.......
+X..XXXXX
+...A....
+
+
+arrow : d
+apple_spot 46
+alarm : refresh
+---
+........
+........
+XX......
+X.......
+X.......
+X.......
+X..XXXXX
+.A.X....
+
+
+arrow : l
+alarm : refresh
+---
+........
+........
+X.......
+X.......
+X.......
+X.......
+X..XXXXX
+.AXX....
+
+
+apple_spot 44
+alarm : refresh
+---
+........
+........
+X.......
+X.......
+X.......
+X.......
+XA.XXXXX
+.XXX....
+
+
+arrow : u
+apple_spot 12
+alarm : refresh
+---
+........
+....A...
+X.......
+X.......
+X.......
+X.......
+XX.XXXXX
+.XXX....
+
+
+alarm : refresh
+---
+........
+....A...
+........
+X.......
+X.......
+XX......
+XX.XXXXX
+.XXX....
+
+
+alarm : refresh
+---
+........
+....A...
+........
+........
+XX......
+XX......
+XX.XXXXX
+.XXX....
+
+
+alarm : refresh
+---
+........
+....A...
+........
+.X......
+.X......
+XX......
+XX.XXXXX
+.XXX....
+
+
+alarm : refresh
+---
+........
+....A...
+.X......
+.X......
+.X......
+.X......
+XX.XXXXX
+.XXX....
+
+
+alarm : refresh
+---
+........
+.X..A...
+.X......
+.X......
+.X......
+.X......
+.X.XXXXX
+.XXX....
+
+
+arrow : r
+alarm : refresh
+---
+........
+.XX.A...
+.X......
+.X......
+.X......
+.X......
+.X.XXXX.
+.XXX....
+
+
+alarm : refresh
+---
+........
+.XXXA...
+.X......
+.X......
+.X......
+.X......
+.X.XXX..
+.XXX....
+
+
+apple_spot 39
+alarm : refresh
+---
+........
+.XXXX...
+.X......
+.X......
+.X......
+.X.....A
+.X.XXX..
+.XXX....
+
+
+alarm : refresh
+---
+........
+.XXXXX..
+.X......
+.X......
+.X......
+.X.....A
+.X.XX...
+.XXX....
+
+
+alarm : refresh
+---
+........
+.XXXXXX.
+.X......
+.X......
+.X......
+.X.....A
+.X.X....
+.XXX....
+
+
+alarm : refresh
+---
+........
+.XXXXXXX
+.X......
+.X......
+.X......
+.X.....A
+.X......
+.XXX....
+
+
+arrow : d
+alarm : refresh
+---
+........
+.XXXXXXX
+.X.....X
+.X......
+.X......
+.X.....A
+.X......
+.XX.....
+
+
+alarm : refresh
+---
+........
+.XXXXXXX
+.X.....X
+.X.....X
+.X......
+.X.....A
+.X......
+.X......
+
+
+alarm : refresh
+---
+........
+.XXXXXXX
+.X.....X
+.X.....X
+.X.....X
+.X.....A
+.X......
+........
+
+
+apple_spot 12
+alarm : refresh
+---
+........
+.XXXXXXX
+.X..A..X
+.X.....X
+.X.....X
+.X.....X
+.X......
+........
+
+
+arrow : l
+alarm : refresh
+---
+........
+.XXXXXXX
+.X..A..X
+.X.....X
+.X.....X
+.X....XX
+........
+........
+
+
+arrow : u
+alarm : refresh
+---
+........
+.XXXXXXX
+.X..A..X
+.X.....X
+.X....XX
+......XX
+........
+........
+
+
+alarm : refresh
+---
+........
+.XXXXXXX
+.X..A..X
+.X....XX
+......XX
+......XX
+........
+........
+
+
+alarm : refresh
+---
+........
+.XXXXXXX
+.X..A.XX
+......XX
+......XX
+......XX
+........
+........
+
+
+arrow : l
+alarm : refresh
+---
+........
+.XXXXXXX
+....AXXX
+......XX
+......XX
+......XX
+........
+........
+
+
+apple_spot 31
+alarm : refresh
+---
+........
+.XXXXXXX
+....XXXX
+......XX
+......XX
+......XX
+A.......
+........
+
+
+alarm : refresh
+---
+........
+..XXXXXX
+...XXXXX
+......XX
+......XX
+......XX
+A.......
+........
+
+
+alarm : refresh
+---
+........
+...XXXXX
+..XXXXXX
+......XX
+......XX
+......XX
+A.......
+........
+
+
+alarm : refresh
+---
+........
+....XXXX
+.XXXXXXX
+......XX
+......XX
+......XX
+A.......
+........
+
+
+alarm : refresh
+---
+........
+.....XXX
+XXXXXXXX
+......XX
+......XX
+......XX
+A.......
+........
+
+
+arrow : d
+alarm : refresh
+---
+........
+......XX
+XXXXXXXX
+X.....XX
+......XX
+......XX
+A.......
+........
+
+
+alarm : refresh
+---
+........
+.......X
+XXXXXXXX
+X.....XX
+X.....XX
+......XX
+A.......
+........
+
+
+alarm : refresh
+---
+........
+........
+XXXXXXXX
+X.....XX
+X.....XX
+X.....XX
+A.......
+........
+
+
+apple_spot 7
+alarm : refresh
+---
+.......A
+........
+XXXXXXXX
+X.....XX
+X.....XX
+X.....XX
+X.......
+........
+
+
+alarm : refresh
+---
+.......A
+........
+XXXXXXX.
+X.....XX
+X.....XX
+X.....XX
+X.......
+X.......
+
+
+alarm : refresh
+---
+X......A
+........
+XXXXXXX.
+X.....X.
+X.....XX
+X.....XX
+X.......
+X.......
+
+
+arrow : l
+apple_spot 43
+alarm : refresh
+---
+X......X
+........
+XXXXXXX.
+X.....X.
+X.....XX
+X.....XX
+X.......
+X.....A.
+
+
+alarm : refresh
+---
+X.....XX
+........
+XXXXXXX.
+X.....X.
+X.....X.
+X.....XX
+X.......
+X.....A.
+
+
+arrow : u
+apple_spot 24
+alarm : refresh
+---
+X.....XX
+........
+XXXXXXX.
+X.....X.
+X....AX.
+X.....XX
+X.......
+X.....X.
+
+
+arrow : l
+alarm : refresh
+---
+X.....XX
+........
+XXXXXXX.
+X.....X.
+X....AX.
+X.....X.
+X.......
+X....XX.
+
+
+arrow : u
+alarm : refresh
+---
+X.....XX
+........
+XXXXXXX.
+X.....X.
+X....AX.
+X.......
+X....X..
+X....XX.
+
+
+alarm : refresh
+---
+X.....XX
+........
+XXXXXXX.
+X.....X.
+X....A..
+X....X..
+X....X..
+X....XX.
+
+
+apple_spot 34
+alarm : refresh
+---
+X.....XX
+........
+XXXXXXX.
+X.....X.
+X....X..
+X....X..
+X..A.X..
+X....XX.
+
+
+arrow : l
+alarm : refresh
+---
+X.....XX
+........
+XXXXXXX.
+X.......
+X...XX..
+X....X..
+X..A.X..
+X....XX.
+
+
+alarm : refresh
+---
+X.....XX
+........
+XXXXXX..
+X.......
+X..XXX..
+X....X..
+X..A.X..
+X....XX.
+
+
+arrow : d
+alarm : refresh
+---
+X.....XX
+........
+XXXXX...
+X.......
+X..XXX..
+X..X.X..
+X..A.X..
+X....XX.
+
+
+apple_spot 19
+alarm : refresh
+---
+X.....XX
+........
+XXXXX...
+X...A...
+X..XXX..
+X..X.X..
+X..X.X..
+X....XX.
+
+
+alarm : refresh
+---
+X.....XX
+........
+XXXX....
+X...A...
+X..XXX..
+X..X.X..
+X..X.X..
+X..X.XX.
+
+
+alarm : refresh
+---
+X..X..XX
+........
+XXX.....
+X...A...
+X..XXX..
+X..X.X..
+X..X.X..
+X..X.XX.
+
+
+arrow : r
+alarm : refresh
+---
+X..XX.XX
+........
+XX......
+X...A...
+X..XXX..
+X..X.X..
+X..X.X..
+X..X.XX.
+
+
+arrow : d
+alarm : refresh
+---
+X..XX.XX
+....X...
+X.......
+X...A...
+X..XXX..
+X..X.X..
+X..X.X..
+X..X.XX.
+
+
+alarm : refresh
+---
+X..XX.XX
+....X...
+....X...
+X...A...
+X..XXX..
+X..X.X..
+X..X.X..
+X..X.XX.
+
+
+apple_spot 35
+alarm : refresh
+---
+X..XX.XX
+....X...
+....X...
+X...X...
+X..XXX..
+X..X.X..
+X..X.XA.
+X..X.XX.
+
+
+arrow : r
+alarm : refresh
+---
+X..XX.XX
+....X...
+....X...
+....XX..
+X..XXX..
+X..X.X..
+X..X.XA.
+X..X.XX.
+
+
+alarm : refresh
+---
+X..XX.XX
+....X...
+....X...
+....XXX.
+...XXX..
+X..X.X..
+X..X.XA.
+X..X.XX.
+
+
+arrow : d
+alarm : refresh
+---
+X..XX.XX
+....X...
+....X...
+....XXX.
+...XXXX.
+...X.X..
+X..X.XA.
+X..X.XX.
+
+
+alarm : refresh
+---
+X..XX.XX
+....X...
+....X...
+....XXX.
+...XXXX.
+...X.XX.
+...X.XA.
+X..X.XX.
+
+
+arrow : r
+alarm : refresh
+---
+X..XX.XX
+....X...
+....X...
+....XXX.
+...XXXX.
+...X.XXX
+...X.XA.
+...X.XX.
+
+
+arrow : d
+alarm : refresh
+---
+...XX.XX
+....X...
+....X...
+....XXX.
+...XXXX.
+...X.XXX
+...X.XAX
+...X.XX.
+
+
+alarm : refresh
+---
+...XX.X.
+....X...
+....X...
+....XXX.
+...XXXX.
+...X.XXX
+...X.XAX
+...X.XXX
+
+
+arrow : r
+alarm : refresh
+---
+...XX...
+....X...
+....X...
+....XXX.
+...XXXX.
+...X.XXX
+...X.XAX
+X..X.XXX
+
+
+alarm : refresh
+---
+...XX...
+....X...
+....X...
+....XXX.
+...XXXX.
+...X.XXX
+...X.XAX
+XX.X.X.X
+
+
+arrow : u
+alarm : refresh
+---
+...XX...
+....X...
+....X...
+....XXX.
+...XXXX.
+...X.XXX
+.X.X.XAX
+XX.X...X
+
+
+alarm : refresh
+---
+...XX...
+....X...
+....X...
+....XXX.
+...XXXX.
+.X.X.XXX
+.X.X..AX
+XX.X...X
+
+
+alarm : refresh
+---
+...XX...
+....X...
+....X...
+....XXX.
+.X.XXXX.
+.X.X..XX
+.X.X..AX
+XX.X...X
+
+
+alarm : refresh
+---
+...XX...
+....X...
+....X...
+.X..XXX.
+.X.XX.X.
+.X.X..XX
+.X.X..AX
+XX.X...X
+
+
+alarm : refresh
+---
+...XX...
+....X...
+.X..X...
+.X..XXX.
+.X.X..X.
+.X.X..XX
+.X.X..AX
+XX.X...X
+
+
+alarm : refresh
+---
+...XX...
+.X..X...
+.X..X...
+.X..XXX.
+.X....X.
+.X.X..XX
+.X.X..AX
+XX.X...X
+
+
+alarm : refresh
+---
+.X.XX...
+.X..X...
+.X..X...
+.X..XXX.
+.X....X.
+.X....XX
+.X.X..AX
+XX.X...X
+
+
+arrow : l
+alarm : refresh
+---
+XX.XX...
+.X..X...
+.X..X...
+.X..XXX.
+.X....X.
+.X....XX
+.X....AX
+XX.X...X
+
+
+alarm : refresh
+---
+XX.XX..X
+.X..X...
+.X..X...
+.X..XXX.
+.X....X.
+.X....XX
+.X....AX
+XX.....X
+
+
+alarm : refresh
+---
+XX..X.XX
+.X..X...
+.X..X...
+.X..XXX.
+.X....X.
+.X....XX
+.X....AX
+XX.....X
+
+
+alarm : refresh
+---
+XX...XXX
+.X..X...
+.X..X...
+.X..XXX.
+.X....X.
+.X....XX
+.X....AX
+XX.....X
+
+
+alarm : refresh
+---
+XX..XXXX
+.X......
+.X..X...
+.X..XXX.
+.X....X.
+.X....XX
+.X....AX
+XX.....X
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X......
+.X......
+.X..XXX.
+.X....X.
+.X....XX
+.X....AX
+XX.....X
+
+
+arrow : d
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X......
+.X...XX.
+.X....X.
+.X....XX
+.X....AX
+XX.....X
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X....X.
+.X....X.
+.X....XX
+.X....AX
+XX.....X
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+.X....X.
+.X....XX
+.X....AX
+XX.....X
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+.X.X....
+.X....XX
+.X....AX
+XX.....X
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+.X.X....
+.X.X...X
+.X....AX
+XX.....X
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+.X.X....
+.X.X....
+.X.X..AX
+XX.....X
+
+
+arrow : r
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+.X.X....
+.X.X....
+.X.XX.A.
+XX.....X
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+.X.X....
+.X.X....
+.X.XXXA.
+XX......
+
+
+apple_spot 19
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+AX.X....
+.X.X....
+.X.XXXX.
+XX......
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+AX.X....
+.X.X....
+.X.XXXXX
+.X......
+
+
+arrow : u
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+AX.X....
+.X.X...X
+.X.XXXXX
+........
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X....
+.X.X....
+.X.X....
+AX.X...X
+.X.X...X
+...XXXXX
+........
+
+
+arrow : r
+apple_spot 5
+alarm : refresh
+---
+XX.XXXXX
+.X.X..A.
+.X.X....
+.X.X....
+XX.X...X
+.X.X...X
+...XXXXX
+........
+
+
+arrow : d
+alarm : refresh
+---
+XX.XXXXX
+.X.X..A.
+.X.X....
+.X.X....
+XX.X...X
+X..X...X
+...XXXXX
+........
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X..A.
+.X.X....
+.X.X....
+X..X...X
+X..X...X
+X..XXXXX
+........
+
+
+alarm : refresh
+---
+XX.XXXXX
+.X.X..A.
+.X.X....
+...X....
+X..X...X
+X..X...X
+X..XXXXX
+X.......
+
+
+arrow : l
+alarm : refresh
+---
+XX.XXXXX
+.X.X..A.
+...X....
+...X....
+X..X...X
+X..X...X
+X..XXXXX
+X......X
+
+
+alarm : refresh
+---
+XX.XXXXX
+...X..A.
+...X....
+...X....
+X..X...X
+X..X...X
+X..XXXXX
+X.....XX
+
+
+alarm : refresh
+---
+X..XXXXX
+...X..A.
+...X....
+...X....
+X..X...X
+X..X...X
+X..XXXXX
+X....XXX
+
+
+alarm : refresh
+---
+...XXXXX
+...X..A.
+...X....
+...X....
+X..X...X
+X..X...X
+X..XXXXX
+X...XXXX
+
+
+alarm : refresh
+---
+...XXXX.
+...X..A.
+...X....
+...X....
+X..X...X
+X..X...X
+X..XXXXX
+X..XXXXX
+
+
+alarm : refresh
+---
+...XXX..
+...X..A.
+...X....
+...X....
+X..X...X
+X..X...X
+X..XXXXX
+X.XXXXXX
+
+
+arrow : u
+alarm : refresh
+---
+...XX...
+...X..A.
+...X....
+...X....
+X..X...X
+X..X...X
+X.XXXXXX
+X.XXXXXX
+
+
+alarm : refresh
+---
+...X....
+...X..A.
+...X....
+...X....
+X..X...X
+X.XX...X
+X.XXXXXX
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+...X..A.
+...X....
+...X....
+X.XX...X
+X.XX...X
+X.XXXXXX
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+......A.
+...X....
+..XX....
+X.XX...X
+X.XX...X
+X.XXXXXX
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+......A.
+..X.....
+..XX....
+X.XX...X
+X.XX...X
+X.XXXXXX
+X.XXXXXX
+
+
+arrow : r
+alarm : refresh
+---
+........
+......A.
+..XX....
+..X.....
+X.XX...X
+X.XX...X
+X.XXXXXX
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+......A.
+..XXX...
+..X.....
+X.X....X
+X.XX...X
+X.XXXXXX
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+......A.
+..XXXX..
+..X.....
+X.X....X
+X.X....X
+X.XXXXXX
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+......A.
+..XXXXX.
+..X.....
+X.X....X
+X.X....X
+X.X.XXXX
+X.XXXXXX
+
+
+arrow : u
+apple_spot 26
+alarm : refresh
+---
+........
+......X.
+..XXXXX.
+..X.....
+X.XA...X
+X.X....X
+X.X.XXXX
+X.XXXXXX
+
+
+arrow : r
+alarm : refresh
+---
+........
+......XX
+..XXXXX.
+..X.....
+X.XA...X
+X.X....X
+X.X..XXX
+X.XXXXXX
+
+
+arrow : d
+alarm : refresh
+---
+........
+......XX
+..XXXXXX
+..X.....
+X.XA...X
+X.X....X
+X.X...XX
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+......XX
+..XXXXXX
+..X....X
+X.XA...X
+X.X....X
+X.X....X
+X.XXXXXX
+
+
+arrow : l
+alarm : refresh
+---
+........
+......XX
+..XXXXXX
+..X...XX
+X.XA...X
+X.X....X
+X.X.....
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+......XX
+..XXXXXX
+..X..XXX
+X.XA...X
+X.X.....
+X.X.....
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+......XX
+..XXXXXX
+..X.XXXX
+X.XA....
+X.X.....
+X.X.....
+X.XXXXXX
+
+
+alarm : refresh
+---
+........
+......XX
+..XXXXXX
+..XXXXXX
+..XA....
+X.X.....
+X.X.....
+X.XXXXXX
+
+
+arrow : d
+apple_spot 7
+alarm : refresh
+---
+.......A
+......XX
+..XXXXXX
+..XXXXXX
+..XX....
+X.X.....
+X.X.....
+X.XXXXXX
+
+
+arrow : r
+alarm : refresh
+---
+.......A
+......XX
+..XXXXXX
+..XXXXXX
+..XXX...
+..X.....
+X.X.....
+X.XXXXXX
+
+
+alarm : refresh
+---
+.......A
+......XX
+..XXXXXX
+..XXXXXX
+..XXXX..
+..X.....
+..X.....
+X.XXXXXX
+
+
+alarm : refresh
+---
+.......A
+......XX
+..XXXXXX
+..XXXXXX
+..XXXXX.
+..X.....
+..X.....
+..XXXXXX
+
+
+alarm : refresh
+---
+.......A
+......XX
+..XXXXXX
+..XXXXXX
+..XXXXXX
+..X.....
+..X.....
+..XXXXX.
+
+
+alarm : refresh
+---
+.......A
+......XX
+..XXXXXX
+..XXXXXX
+X.XXXXXX
+..X.....
+..X.....
+..XXXX..
+
+
+arrow : u
+alarm : refresh
+---
+.......A
+......XX
+..XXXXXX
+X.XXXXXX
+X.XXXXXX
+..X.....
+..X.....
+..XXX...
+
+
+alarm : refresh
+---
+.......A
+......XX
+X.XXXXXX
+X.XXXXXX
+X.XXXXXX
+..X.....
+..X.....
+..XX....
+
+
+alarm : refresh
+---
+.......A
+X.....XX
+X.XXXXXX
+X.XXXXXX
+X.XXXXXX
+..X.....
+..X.....
+..X.....
+
+
+alarm : refresh
+---
+X......A
+X.....XX
+X.XXXXXX
+X.XXXXXX
+X.XXXXXX
+..X.....
+..X.....
+........
+
+
+arrow : r
+alarm : refresh
+---
+XX.....A
+X.....XX
+X.XXXXXX
+X.XXXXXX
+X.XXXXXX
+..X.....
+........
+........
+
+
+alarm : refresh
+---
+XXX....A
+X.....XX
+X.XXXXXX
+X.XXXXXX
+X.XXXXXX
+........
+........
+........
+
+
+alarm : refresh
+---
+XXXX...A
+X.....XX
+X.XXXXXX
+X.XXXXXX
+X..XXXXX
+........
+........
+........
+
+
+alarm : refresh
+---
+XXXXX..A
+X.....XX
+X.XXXXXX
+X..XXXXX
+X..XXXXX
+........
+........
+........
+
+
+alarm : refresh
+---
+XXXXXX.A
+X.....XX
+X..XXXXX
+X..XXXXX
+X..XXXXX
+........
+........
+........
+
+
+alarm : refresh
+---
+XXXXXXXA
+X.....XX
+X...XXXX
+X..XXXXX
+X..XXXXX
+........
+........
+........
+
+
+apple_spot 0
+alarm : refresh
+---
+XXXXXXXX
+XA....XX
+X...XXXX
+X..XXXXX
+X..XXXXX
+........
+........
+........
+
+
+arrow : u
+alarm : refresh
+---
+XXXXXXXX
+XA....XX
+X....XXX
+X..XXXXX
+X..XXXXX
+........
+........
+.......X
+
+
+arrow : l
+alarm : refresh
+---
+XXXXXXXX
+XA....XX
+X.....XX
+X..XXXXX
+X..XXXXX
+........
+........
+......XX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XA....XX
+X......X
+X..XXXXX
+X..XXXXX
+........
+........
+.....XXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XA.....X
+X......X
+X..XXXXX
+X..XXXXX
+........
+........
+....XXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XA......
+X......X
+X..XXXXX
+X..XXXXX
+........
+........
+...XXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XA......
+X.......
+X..XXXXX
+X..XXXXX
+........
+........
+..XXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XA......
+X.......
+X..XXXX.
+X..XXXXX
+........
+........
+.XXXXXXX
+
+
+arrow : u
+alarm : refresh
+---
+XXXXXXXX
+XA......
+X.......
+X..XXX..
+X..XXXXX
+........
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XA......
+X.......
+X..XX...
+X..XXXXX
+.X......
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XA......
+X.......
+X..X....
+XX.XXXXX
+.X......
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XA......
+X.......
+XX......
+XX.XXXXX
+.X......
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XA......
+XX......
+XX......
+XX..XXXX
+.X......
+.X......
+.XXXXXXX
+
+
+apple_spot 17
+alarm : refresh
+---
+XXXXXXXX
+XX......
+XX......
+XX.....A
+XX..XXXX
+.X......
+.X......
+.XXXXXXX
+
+
+arrow : r
+alarm : refresh
+---
+XXXXXXXX
+XXX.....
+XX......
+XX.....A
+XX...XXX
+.X......
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XXXX....
+XX......
+XX.....A
+XX....XX
+.X......
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XXXXX...
+XX......
+XX.....A
+XX.....X
+.X......
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XXXXXX..
+XX......
+XX.....A
+XX......
+.X......
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XXXXXXX.
+XX......
+XX.....A
+.X......
+.X......
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+XXXXXXXX
+XX......
+.X.....A
+.X......
+.X......
+.X......
+.XXXXXXX
+
+
+arrow : d
+alarm : refresh
+---
+XXXXXXXX
+XXXXXXXX
+.X.....X
+.X.....A
+.X......
+.X......
+.X......
+.XXXXXXX
+
+
+apple_spot 25
+alarm : refresh
+---
+XXXXXXXX
+XXXXXXXX
+.X.....X
+.X.....X
+.X......
+.X.....A
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXXXXXXX
+.XXXXXXX
+.X.....X
+.X.....X
+.X.....X
+.X.....A
+.X......
+.XXXXXXX
+
+
+apple_spot 13
+alarm : refresh
+---
+XXXXXXXX
+.XXXXXXX
+.X.....X
+.X.....X
+AX.....X
+.X.....X
+.X......
+.XXXXXXX
+
+
+alarm : refresh
+---
+.XXXXXXX
+.XXXXXXX
+.X.....X
+.X.....X
+AX.....X
+.X.....X
+.X.....X
+.XXXXXXX
+
+
+arrow : r
+alarm : refresh
+---
+..XXXXXX
+.XXXXXXX
+.X.....X
+.X.....X
+AX.....X
+.X.....X
+XX.....X
+.XXXXXXX
+
+
+arrow : u
+alarm : refresh
+---
+...XXXXX
+.XXXXXXX
+.X.....X
+.X.....X
+AX.....X
+XX.....X
+XX.....X
+.XXXXXXX
+
+
+apple_spot 21
+alarm : refresh
+---
+...XXXXX
+.XXXXXXX
+.X.....X
+.X.....X
+XX.....X
+XXA....X
+XX.....X
+.XXXXXXX
+
+
+alarm : refresh
+---
+....XXXX
+.XXXXXXX
+.X.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XXXXXXX
+
+
+alarm : refresh
+---
+.....XXX
+.XXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XXXXXXX
+
+
+alarm : refresh
+---
+......XX
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XXXXXXX
+
+
+alarm : refresh
+---
+X......X
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XXXXXXX
+
+
+arrow : r
+alarm : refresh
+---
+XX......
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XXXXXXX
+
+
+alarm : refresh
+---
+XXX.....
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XXXXXX.
+
+
+alarm : refresh
+---
+XXXX....
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XXXXX..
+
+
+alarm : refresh
+---
+XXXXX...
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XXXX...
+
+
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XXX....
+
+
+arrow : u
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.XX..X..
+
+
+arrow : l
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+.X..XX..
+
+
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+XX.....X
+...XXX..
+
+
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+XXA....X
+X......X
+..XXXX..
+
+
+arrow : u
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+XX.....X
+XX.....X
+X.A....X
+X.X....X
+..XXXX..
+
+
+apple_spot 14
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+XX.....X
+XX..A..X
+X.X....X
+X.X....X
+..XXXX..
+
+
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+XX.....X
+X.X.A..X
+X.X....X
+X.X....X
+..XXXX..
+
+
+arrow : r
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+X......X
+X.XXA..X
+X.X....X
+X.X....X
+..XXXX..
+
+
+apple_spot 14
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+X......X
+X.XXXA.X
+X.X....X
+X.X....X
+..XXXX..
+
+
+apple_spot 27
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+XX.....X
+X......X
+X.XXXX.X
+X.X....X
+X.X....X
+..XXXXA.
+
+
+alarm : refresh
+---
+XXXXXX..
+XXXXXXXX
+X......X
+X......X
+X.XXXXXX
+X.X....X
+X.X....X
+..XXXXA.
+
+
+arrow : d
+alarm : refresh
+---
+XXXXXX..
+X.XXXXXX
+X......X
+X......X
+X.XXXXXX
+X.X...XX
+X.X....X
+..XXXXA.
+
+
+alarm : refresh
+---
+XXXXXX..
+X..XXXXX
+X......X
+X......X
+X.XXXXXX
+X.X...XX
+X.X...XX
+..XXXXA.
+
+
+apple_spot 8
+alarm : refresh
+---
+XXXXXX..
+X..XXXXX
+X....A.X
+X......X
+X.XXXXXX
+X.X...XX
+X.X...XX
+..XXXXX.
+
+
+arrow : r
+alarm : refresh
+---
+XXXXXX..
+X...XXXX
+X....A.X
+X......X
+X.XXXXXX
+X.X...XX
+X.X...XX
+..XXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X....XXX
+X....A.X
+X......X
+X.XXXXXX
+X.X...XX
+X.X...XX
+X.XXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X.....XX
+X....A.X
+X......X
+X.XXXXXX
+X.X...XX
+X.X...XX
+XXXXXXXX
+
+
+arrow : u
+alarm : refresh
+---
+XXXXXX..
+X......X
+X....A.X
+X......X
+X.XXXXXX
+X.X...XX
+XXX...XX
+XXXXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X.......
+X....A.X
+X......X
+X.XXXXXX
+XXX...XX
+XXX...XX
+XXXXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X.......
+X....A..
+X......X
+XXXXXXXX
+XXX...XX
+XXX...XX
+XXXXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X.......
+X....A..
+XX......
+XXXXXXXX
+XXX...XX
+XXX...XX
+XXXXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X.......
+XX...A..
+XX......
+XXXXXXX.
+XXX...XX
+XXX...XX
+XXXXXXXX
+
+
+arrow : r
+alarm : refresh
+---
+XXXXXX..
+X.......
+XXX..A..
+XX......
+XXXXXXX.
+XXX...X.
+XXX...XX
+XXXXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X.......
+XXXX.A..
+XX......
+XXXXXXX.
+XXX...X.
+XXX...X.
+XXXXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X.......
+XXXXXA..
+XX......
+XXXXXXX.
+XXX...X.
+.XX...X.
+XXXXXXXX
+
+
+apple_spot 14
+alarm : refresh
+---
+XXXXXX..
+X.......
+XXXXXX..
+XX...A..
+XXXXXXX.
+XXX...X.
+.XX...X.
+XXXXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X.......
+XXXXXXX.
+XX...A..
+XXXXXXX.
+.XX...X.
+.XX...X.
+XXXXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+X.......
+XXXXXXXX
+XX...A..
+.XXXXXX.
+.XX...X.
+.XX...X.
+XXXXXXXX
+
+
+arrow : d
+alarm : refresh
+---
+XXXXXX..
+X.......
+XXXXXXXX
+.X...A.X
+.XXXXXX.
+.XX...X.
+.XX...X.
+XXXXXXXX
+
+
+arrow : l
+alarm : refresh
+---
+XXXXXX..
+X.......
+.XXXXXXX
+.X...AXX
+.XXXXXX.
+.XX...X.
+.XX...X.
+XXXXXXXX
+
+
+apple_spot 15
+alarm : refresh
+---
+XXXXXX..
+X.......
+.XXXXXXX
+.X...XXX
+.XXXXXXA
+.XX...X.
+.XX...X.
+XXXXXXXX
+
+
+alarm : refresh
+---
+XXXXXX..
+........
+.XXXXXXX
+.X..XXXX
+.XXXXXXA
+.XX...X.
+.XX...X.
+XXXXXXXX
+
+
+alarm : refresh
+---
+.XXXXX..
+........
+.XXXXXXX
+.X.XXXXX
+.XXXXXXA
+.XX...X.
+.XX...X.
+XXXXXXXX
+
+
+alarm : refresh
+---
+..XXXX..
+........
+.XXXXXXX
+.XXXXXXX
+.XXXXXXA
+.XX...X.
+.XX...X.
+XXXXXXXX
+
+
+alarm : refresh
+---
+GameOver

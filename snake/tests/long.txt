@@ -1,0 +1,485 @@
+The whole game should work as described.
+Width 5 Height 5
+apple_spot 20
+---
+XX...
+.....
+.....
+.....
+..A..
+
+
+alarm : refresh
+---
+.XX..
+.....
+.....
+.....
+..A..
+
+
+arrow : d
+alarm : refresh
+---
+..X..
+..X..
+.....
+.....
+..A..
+
+
+alarm : refresh
+---
+.....
+..X..
+..X..
+.....
+..A..
+
+
+alarm : refresh
+---
+.....
+.....
+..X..
+..X..
+..A..
+
+
+apple_spot 20
+alarm : refresh
+---
+.....
+.....
+..X..
+..X..
+..XA.
+
+
+arrow : r
+apple_spot 18
+alarm : refresh
+---
+.....
+.....
+..X..
+..X..
+A.XX.
+
+
+alarm : refresh
+---
+.....
+.....
+.....
+..X..
+A.XXX
+
+
+apple_spot 14
+alarm : refresh
+---
+.....
+.....
+....A
+..X..
+X.XXX
+
+
+arrow : u
+alarm : refresh
+---
+.....
+.....
+....A
+X....
+X.XXX
+
+
+alarm : refresh
+---
+.....
+.....
+X...A
+X....
+X..XX
+
+
+arrow : r
+alarm : refresh
+---
+.....
+.....
+XX..A
+X....
+X...X
+
+
+alarm : refresh
+---
+.....
+.....
+XXX.A
+X....
+X....
+
+
+alarm : refresh
+---
+.....
+.....
+XXXXA
+X....
+.....
+
+
+apple_spot 0
+alarm : refresh
+---
+A....
+.....
+XXXXX
+X....
+.....
+
+
+arrow : u
+alarm : refresh
+---
+A....
+....X
+XXXXX
+.....
+.....
+
+
+alarm : refresh
+---
+A...X
+....X
+.XXXX
+.....
+.....
+
+
+arrow : l
+alarm : refresh
+---
+A..XX
+....X
+..XXX
+.....
+.....
+
+
+alarm : refresh
+---
+A.XXX
+....X
+...XX
+.....
+.....
+
+
+alarm : refresh
+---
+AXXXX
+....X
+....X
+.....
+.....
+
+
+apple_spot 13
+alarm : refresh
+---
+XXXXX
+....X
+....X
+.....
+A....
+
+
+arrow : d
+alarm : refresh
+---
+XXXXX
+X...X
+.....
+.....
+A....
+
+
+alarm : refresh
+---
+XXXXX
+X....
+X....
+.....
+A....
+
+
+alarm : refresh
+---
+XXXX.
+X....
+X....
+X....
+A....
+
+
+apple_spot 6
+alarm : refresh
+---
+XXXX.
+X....
+X.A..
+X....
+X....
+
+
+arrow : r
+alarm : refresh
+---
+XXX..
+X....
+X.A..
+X....
+XX...
+
+
+alarm : refresh
+---
+XX...
+X....
+X.A..
+X....
+XXX..
+
+
+arrow : u
+alarm : refresh
+---
+X....
+X....
+X.A..
+X.X..
+XXX..
+
+
+apple_spot 4
+alarm : refresh
+---
+X....
+XA...
+X.X..
+X.X..
+XXX..
+
+
+alarm : refresh
+---
+.....
+XAX..
+X.X..
+X.X..
+XXX..
+
+
+arrow : l
+apple_spot 13
+alarm : refresh
+---
+.....
+XXX..
+X.X..
+X.X..
+XXXA.
+
+
+arrow : u
+arrow : u
+alarm : refresh
+---
+.X...
+.XX..
+X.X..
+X.X..
+XXXA.
+
+
+arrow : r
+alarm : refresh
+---
+.XX..
+.XX..
+..X..
+X.X..
+XXXA.
+
+
+alarm : refresh
+---
+.XXX.
+.XX..
+..X..
+..X..
+XXXA.
+
+
+arrow : d
+alarm : refresh
+---
+.XXX.
+.XXX.
+..X..
+..X..
+.XXA.
+
+
+alarm : refresh
+---
+.XXX.
+.XXX.
+..XX.
+..X..
+..XA.
+
+
+alarm : refresh
+---
+.XXX.
+.XXX.
+..XX.
+..XX.
+...A.
+
+
+apple_spot 12
+alarm : refresh
+---
+.XXX.
+.XXX.
+..XX.
+..XX.
+..AX.
+
+
+arrow : l
+apple_spot 4
+alarm : refresh
+---
+.XXX.
+.XXX.
+A.XX.
+..XX.
+..XX.
+
+
+alarm : refresh
+---
+.XXX.
+.XXX.
+A.XX.
+...X.
+.XXX.
+
+
+alarm : refresh
+---
+.XXX.
+.XXX.
+A..X.
+...X.
+XXXX.
+
+
+arrow : u
+alarm : refresh
+---
+.XXX.
+.X.X.
+A..X.
+X..X.
+XXXX.
+
+
+apple_spot 10
+alarm : refresh
+---
+.XXX.
+.X.X.
+X..X.
+X..XA
+XXXX.
+
+
+alarm : refresh
+---
+.XXX.
+X..X.
+X..X.
+X..XA
+XXXX.
+
+
+alarm : refresh
+---
+X.XX.
+X..X.
+X..X.
+X..XA
+XXXX.
+
+
+arrow : l
+alarm : refresh
+---
+X..XX
+X..X.
+X..X.
+X..XA
+XXXX.
+
+
+arrow : d
+alarm : refresh
+---
+X...X
+X..XX
+X..X.
+X..XA
+XXXX.
+
+
+alarm : refresh
+---
+X...X
+X...X
+X..XX
+X..XA
+XXXX.
+
+
+apple_spot 7
+alarm : refresh
+---
+X...X
+X...X
+X.AXX
+X..XX
+XXXX.
+
+
+alarm : refresh
+---
+X...X
+X...X
+X.A.X
+X..XX
+XXXXX
+
+
+alarm : refresh
+---
+GameOver

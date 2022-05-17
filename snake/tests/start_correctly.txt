@@ -1,0 +1,6 @@
+The snake should begin in the top left, heading east, and be two cells long. When the ui.random gives 0, the apple should be placed on 1st free position, counting from left-to-right, top-to-bottom.
+Width 5 Height 2
+apple_spot 0
+---
+XXA..
+.....

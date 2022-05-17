@@ -1,0 +1,77 @@
+The game ends when as the head of the snake collides with the rest of the snake.
+Width 4 Height 4
+apple_spot 0
+---
+XXA.
+....
+....
+....
+
+
+apple_spot 0
+alarm : refresh
+---
+XXXA
+....
+....
+....
+
+
+apple_spot 0
+alarm : refresh
+---
+XXXX
+A...
+....
+....
+
+
+alarm : refresh
+---
+XXXX
+A...
+....
+....
+
+
+arrow : d
+apple_spot 0
+alarm : refresh
+---
+XXXX
+XA..
+....
+....
+
+
+arrow : r
+apple_spot 0
+alarm : refresh
+---
+XXXX
+XXA.
+....
+....
+
+
+apple_spot 0
+alarm : refresh
+---
+XXXX
+XXXA
+....
+....
+
+
+apple_spot 0
+alarm : refresh
+---
+XXXX
+XXXX
+A...
+....
+
+
+alarm : refresh
+---
+GameOver

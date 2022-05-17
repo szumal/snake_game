@@ -1,0 +1,143 @@
+The piece should be animated as described in the assignment and should also respond to space as described in the assignment.
+Width 3 Height 3
+
+---
+X..
+...
+...
+
+
+alarm: refresh
+---
+.X.
+...
+...
+
+
+alarm: refresh
+---
+..X
+...
+...
+
+
+alarm: refresh
+---
+...
+X..
+...
+
+
+other: space
+alarm: refresh
+---
+...
+.A.
+...
+
+
+alarm: refresh
+---
+...
+..A
+...
+
+
+alarm: refresh
+---
+...
+...
+A..
+
+
+alarm: refresh
+---
+...
+...
+.A.
+
+
+other: space
+alarm: refresh
+---
+...
+...
+..X
+
+
+alarm: refresh
+---
+X..
+...
+...
+
+
+alarm: refresh
+---
+.X.
+...
+...
+
+
+alarm: refresh
+---
+..X
+...
+...
+
+
+alarm: refresh
+---
+...
+X..
+...
+
+
+alarm: refresh
+---
+...
+.X.
+...
+
+
+alarm: refresh
+---
+...
+..X
+...
+
+
+alarm: refresh
+---
+...
+...
+X..
+
+
+alarm: refresh
+---
+...
+...
+.X.
+
+
+alarm: refresh
+---
+...
+...
+..X
+
+
+alarm: refresh
+---
+X..
+...
+...
+
+
+alarm: refresh
+---
+.X.
+...
+...
+

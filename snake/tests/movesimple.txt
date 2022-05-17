@@ -1,0 +1,24 @@
+When moving the snake is extended from the head in the current direction (and he snake is shortened from the tail).
+Width 5 Height 2
+apple_spot 3
+---
+XX...
+A....
+
+
+alarm : refresh
+---
+.XX..
+A....
+
+
+alarm : refresh
+---
+..XX.
+A....
+
+
+alarm : refresh
+---
+...XX
+A....

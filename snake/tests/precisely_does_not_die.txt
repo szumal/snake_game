@@ -1,0 +1,32 @@
+The game should not end if the tail of the snake is exactly at the next position of the head.
+Width 4 Height 2
+apple_spot 0
+---
+XXA.
+....
+
+
+apple_spot 0
+alarm : refresh
+---
+XXXA
+....
+
+
+apple_spot 0
+alarm : refresh
+---
+XXXX
+A...
+
+
+alarm : refresh
+---
+XXXX
+A...
+
+
+alarm : refresh
+---
+XXXX
+A...
